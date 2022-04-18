@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\Administrador\\Desktop\\CRUD---Entity-Framework-Core-5-com-o-ASP.NET-Core-5-MVC\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\CRUD---Entity-Framework-Core-5-com-o-ASP.NET-Core-5-MVC\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\CRUD---Entity-Framework-Core-5-com-o-ASP.NET-Core-5-MVC\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\Administrador\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\CRUD---Entity-Framework-Core-5-com-o-ASP.NET-Core-5-MVC\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\source\\repos\\ContosoUniversity\\ContosoUniversity\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\CRUD---Entity-Framework-Core-5-com-o-ASP.NET-Core-5-MVC\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

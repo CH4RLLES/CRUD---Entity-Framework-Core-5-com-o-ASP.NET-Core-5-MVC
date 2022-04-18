@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = ContosoUniversity
-build_property.ProjectDir = C:\Users\Administrador\source\repos\ContosoUniversity\ContosoUniversity\
+build_property.ProjectDir = C:\Users\Administrador\Desktop\CRUD---Entity-Framework-Core-5-com-o-ASP.NET-Core-5-MVC\ContosoUniversity\
