@@ -16,7 +16,7 @@ namespace ContosoUniversity
         public static void Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
-            //
+            //cria o banco local se nao existir
             CreateDbIfNotExists(host);
            
 
